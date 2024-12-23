@@ -11,6 +11,7 @@ Before you begin, make sure you have the following:
 1. **MetaMask Wallet**:
    - Installed and configured on your browser.
    - Added the Metis Andromeda/Sepolia mainnet or testnet.
+   ![<MetaMask Connection>](https://private-user-images.githubusercontent.com/80626423/398081117-73f73208-d65f-4753-b16e-ab7453073dc8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5MzgyODUsIm5iZiI6MTczNDkzNzk4NSwicGF0aCI6Ii84MDYyNjQyMy8zOTgwODExMTctNzNmNzMyMDgtZDY1Zi00NzUzLWIxNmUtYWI3NDUzMDczZGM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIzVDA3MTMwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzYzYyZDM2ODUwOTk1NjA2NWFkMTJkMDE1YTgwOGUxNGRmNDRiMzFmYmFhYjgxMmUwNjE3ZTg0MTY5NDcxMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CDd5osKkBs6NLTMWqjm1gU28IM4SLHXo-W-DxENAqZs)
 
 2. **Test ETH** (if testing on the Metis testnet):
    - Obtain test ETH from the [Metis Faucet](https://faucet.metis.io/).
@@ -31,7 +32,7 @@ Before you begin, make sure you have the following:
    - Open [Remix IDE](https://remix.ethereum.org/) in your browser.
 
 2. **Connect MetaMask**:
-   - Ensure MetaMask is connected to the Metis Andromeda network.
+   - Ensure MetaMask is connected to the Metis Andromeda/Sepolia network.
 
 3. **Create a New File**:
    - Click the **File Explorer** in Remix.
